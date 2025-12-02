@@ -3,7 +3,7 @@ import { SchoolType } from '../types/SchoolType';
 export const schoolDB: SchoolType[] = [
   {
     id: '1',
-    name: 'EMEFI Profª Áurea Cantinho Rodrigues',
+    name: 'EMEFI Prof. Áurea Cantinho Rodrigues',
     address: 'Rua Irã, 135',
     neighborhood: 'JD Oswaldo Cruz',
     latitude: -23.20035,
@@ -11,7 +11,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '2',
-    name: 'EMEFI Profª Maria Aparecida dos Santos Ronconi',
+    name: 'EMEFI Prof. Maria Aparecida dos Santos Ronconi',
     address: 'Rua Ana Gonçalves da Cunha, 400',
     neighborhood: 'JD Jussara',
     latitude: -23.18763,
@@ -19,7 +19,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '3',
-    name: 'EMEFI Profº Felício Savastano',
+    name: 'EMEFI Prof. Felício Savastano',
     address: 'Rua Cap. Raul Fagundes, 341',
     neighborhood: 'Monte Castelo',
     latitude: -23.18282,
@@ -35,7 +35,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '5',
-    name: 'EMEFI Profª Suely Antunes de Mello',
+    name: 'EMEFI Prof. Suely Antunes de Mello',
     address: 'Rua Siqueira Campos, 845',
     neighborhood: 'Centro',
     latitude: -23.17854,
@@ -43,7 +43,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '6',
-    name: 'EMEFI Profº Antônio Palma Sobrinho',
+    name: 'EMEFI Prof. Antônio Palma Sobrinho',
     address: 'Rua Ângelo Scarpel, 163',
     neighborhood: 'Pq. Nova Esperança',
     latitude: -23.20094,
@@ -51,7 +51,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '7',
-    name: 'EMEFI Profª Elizabete de Paula Honorato',
+    name: 'EMEFI Prof. Elizabete de Paula Honorato',
     address: 'Rua Aurélio Portilho Castellanos, 124',
     neighborhood: 'JD Mariana I',
     latitude: -23.21327,
@@ -59,7 +59,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '8',
-    name: 'EMEFI Profº Geraldo de Almeida',
+    name: 'EMEFI Prof. Geraldo de Almeida',
     address: 'Rua Camomila, 100',
     neighborhood: 'Chac. Pousada do Vale',
     latitude: -23.22192,
@@ -67,7 +67,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '9',
-    name: 'EMEFI Profº Hélio Augusto de Souza',
+    name: 'EMEFI Prof. Hélio Augusto de Souza',
     address: 'Praça dos Músicos, s/n',
     neighborhood: 'JD Valparaíba',
     latitude: -23.17487,
@@ -75,7 +75,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '10',
-    name: 'EMEFI Profª Ilga Pusplatais',
+    name: 'EMEFI Prof. Ilga Pusplatais',
     address: 'Uberlândia, 465',
     neighborhood: 'JD Ismênia',
     latitude: -23.17543,
@@ -83,7 +83,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '11',
-    name: 'EMEFI Profª Leonor Pereira Nunes Galvão',
+    name: 'EMEFI Prof. Leonor Pereira Nunes Galvão',
     address: 'Rua José Molina, 150',
     neighborhood: 'Vila Industrial',
     latitude: -23.17954,
@@ -91,7 +91,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '12',
-    name: 'EMEFI Profº Luiz Leite',
+    name: 'EMEFI Prof. Luiz Leite',
     address: 'Rua Benedito Andrade, 5',
     neighborhood: 'Res. Galo Branco',
     latitude: -23.13173,
@@ -99,7 +99,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '13',
-    name: 'EMEFI Profª Luiza Maria Cavalcanti Guratti',
+    name: 'EMEFI Prof. Luiza Maria Cavalcanti Guratti',
     address: 'Rua Benedita Francisca da Rosa, 203',
     neighborhood: 'Lot. Setville Altos de São José',
     latitude: -23.22464,
@@ -107,7 +107,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '14',
-    name: 'EMEFI Profª Maria Amélia Wakamatsu',
+    name: 'EMEFI Prof. Maria Amélia Wakamatsu',
     address: 'Rua Virgílio Fernandes de Oliveira, 31',
     neighborhood: 'Campos de São José',
     latitude: -23.20981,
@@ -115,7 +115,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '15',
-    name: "EMEFI Profª Palmyra Sant'anna",
+    name: "EMEFI Prof. Palmyra Sant'anna",
     address: 'Rua Prof. Felício Savastano, 350',
     neighborhood: 'Vila Industrial',
     latitude: -23.18302,
@@ -123,7 +123,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '16',
-    name: 'EMEFI Profº Possidônio José de Freitas',
+    name: 'EMEFI Prof. Possidônio José de Freitas',
     address: 'Rua Felício Jabur Nasser, 935',
     neighborhood: 'Res. Galo Branco',
     latitude: -23.13631,
@@ -131,7 +131,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '17',
-    name: 'EMEFI Profº Possidônio Salles',
+    name: 'EMEFI Prof. Possidônio Salles',
     address: 'Rua Benedito Eras, s/n',
     neighborhood: 'Jd. Americano',
     latitude: -23.17924,
@@ -139,7 +139,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '18',
-    name: 'EMEFI Profª Rosa Tomita',
+    name: 'EMEFI Prof. Rosa Tomita',
     address: 'Rua Ayrton senna da Silva, 90',
     neighborhood: 'Jd São José II',
     latitude: -23.17031,
@@ -147,7 +147,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '19',
-    name: 'EMEFI Profª Silvana Maria Ribeiro de Almeida',
+    name: 'EMEFI Prof. Silvana Maria Ribeiro de Almeida',
     address: 'Rua 4 de Março, 10',
     neighborhood: 'Jd das Cerejeiras',
     latitude: -23.19423,
@@ -155,7 +155,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '20',
-    name: 'EMEFI Profª Sônia Maria Pereira da Silva',
+    name: 'EMEFI Prof. Sônia Maria Pereira da Silva',
     address: 'Rua dos Alfaiates, 321',
     neighborhood: 'Pq Novo Horizonte',
     latitude: -23.19805,
@@ -163,7 +163,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '21',
-    name: 'EMEFI Profª Terezinha Araujo',
+    name: 'EMEFI Prof. Terezinha Araujo',
     address: 'Rua Pedra do Sol, 1700',
     neighborhood: 'Jd Santa Hermínia',
     latitude: -23.21137,
@@ -171,7 +171,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '22',
-    name: 'EMEFI Profº Waldemar Ramos',
+    name: 'EMEFI Prof. Waldemar Ramos',
     address: 'Rua México, 84',
     neighborhood: 'Vista Verde',
     latitude: -23.18219,
@@ -187,7 +187,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '24',
-    name: 'EMEFI Profª Adélia Chucri Neme',
+    name: 'EMEFI Prof. Adélia Chucri Neme',
     address: 'Av. Pres. Juscelino Kubitschek, 6701',
     neighborhood: 'Vila Industrial (Integração)',
     latitude: -23.18254,
@@ -195,7 +195,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '25',
-    name: 'EMEFI Profª Amintas Rocha Brito',
+    name: 'EMEFI Prof. Amintas Rocha Brito',
     address: 'Rua Aníbal Ferri, 193',
     neighborhood: 'Jd. Castanheira',
     latitude: -23.1851,
@@ -203,7 +203,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '26',
-    name: 'EMEFI Profª Arlete Eloíza Ferreira Teixeira',
+    name: 'EMEFI Prof. Arlete Eloíza Ferreira Teixeira',
     address: 'Rua Orlando Silva, 85',
     neighborhood: 'Jd. Nova Detroit',
     latitude: -23.16647,
