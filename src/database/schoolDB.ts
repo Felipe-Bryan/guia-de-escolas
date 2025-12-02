@@ -35,7 +35,7 @@ export const schoolDB: SchoolType[] = [
   },
   {
     id: '5',
-    name: 'EMEFI Profª Profª Suely Antunes de Mello',
+    name: 'EMEFI Profª Suely Antunes de Mello',
     address: 'Rua Siqueira Campos, 845',
     neighborhood: 'Centro',
     latitude: -23.17854,
